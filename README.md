@@ -1,8 +1,8 @@
 |**Repositórios**|**Andamento**|
 |:--------------:|:-----------:|
 |[Algebra-Linear-com-Python](https://github.com/Alyssonmach/Algebra-Linear-com-Python): Aplicações dos tópicos aprendidos na disciplina Álgebra Linear em Python.|Concluído|
-|[algebralinearufcg.github.io](https://github.com/algebralinearufcg/algebralinearufcg.github.io): Repositório utilizado para hospedar os arquivos do site.|Concluído|
-|[Minicurso-Git-e-GitHub](https://github.com/Alyssonmach/Minicurso-Git-e-GitHub): Aprenda a usar o Software de Versionamento Git e o repositório remoto Github para auxiliar sua vida acadêmica e profissional.|Concluído|
+|[algebralinearufcg.github.io](https://algebralinearufcg.github.io): Repositório utilizado para hospedar os arquivos do site.|Concluído|
+|[Minicurso-Git-e-GitHub](https://alyssonmach.github.io/Minicurso-Git-e-GitHub/index.html): Aprenda a usar o Software de Versionamento Git e o repositório remoto Github para auxiliar sua vida acadêmica e profissional.|Concluído|
 |[Programas-em-C](https://github.com/Alyssonmach/Programas-em-C): Repositório criado para hospedar soluções de questões do Livro do Deitel "Como Programar em C".|Concluído|
 |[PELS-IAS-academics-talk-second-edition](https://github.com/Alyssonmach/PELS-IAS-academics-talk-second-edition): Material used in the second edition of the academic lecture promoted by PELS/IAS of UFCG.|Concluído|
 |[Machine-Learning-com-Python](https://github.com/Alyssonmach/Machine-Learning-com-Python): Aplicações de Machine Learning usando a linguagem de programação Python.|Em andamento|
@@ -13,4 +13,5 @@
 
 ### Contato:
 
-- [Me envie um e-mail](mailto:alysson.barbosa@ee.ufcg.edu.br);
+- [Me envie um e-mail](mailto:alysson.barbosa@ee.ufcg.edu.br)
+- [Medium Posts](https://medium.com/@alyssonmachado388)
