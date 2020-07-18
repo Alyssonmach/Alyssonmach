@@ -1,7 +1,7 @@
 |**Repositórios**|**Andamento**|
 |:--------------:|:-----------:|
 |[Algebra-Linear-com-Python](https://github.com/Alyssonmach/Algebra-Linear-com-Python): Aplicações dos tópicos aprendidos na disciplina Álgebra Linear em Python.|Concluído|
-|[algebralinearufcg.github.io](https://algebralinearufcg.github.io): Repositório utilizado para hospedar os arquivos do site.|Concluído|
+|[algebralinearufcg.github.io](https://algebralinearufcg.github.io) / [Wiki](https://github.com/algebralinearufcg/algebralinearufcg.github.io/wiki/Vers%C3%A3o-3.5.1): Repositório utilizado para hospedar os arquivos do site.|Concluído|
 |[Minicurso-Git-e-GitHub](https://alyssonmach.github.io/Minicurso-Git-e-GitHub/index.html): Aprenda a usar o Software de Versionamento Git e o repositório remoto Github para auxiliar sua vida acadêmica e profissional.|Concluído|
 |[Programas-em-C](https://github.com/Alyssonmach/Programas-em-C): Repositório criado para hospedar soluções de questões do Livro do Deitel "Como Programar em C".|Concluído|
 |[PELS-IAS-academics-talk-second-edition](https://github.com/Alyssonmach/PELS-IAS-academics-talk-second-edition): Material used in the second edition of the academic lecture promoted by PELS/IAS of UFCG.|Concluído|
