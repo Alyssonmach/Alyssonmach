@@ -8,6 +8,6 @@ He has completed high school at Colégio Alfredo Dantas (CAD) and is currently g
 
 ## Current Status 🌎: <a href = "https://github.com/Alyssonmach?tab=repositories" target = "_blank"><img align="left" width="150" height="150" src="https://github.com/Alyssonmach/alyssonmach/blob/master/octocat.png"></a>
 
-- [x] 🔭 I’m currently working on **Image Processing applied in Medicine**. 
-- [x] 🌱 I’m currently learning **Convolutional Neural Networks**. 
-- [x] 👯 I’m looking to collaborate on **projects in the field of artificial intelligence**.  
+- 🔭 I’m currently working on **Image Processing applied in Medicine**. 
+- 🌱 I’m currently learning **Convolutional Neural Networks**. 
+- 👯 I’m looking to collaborate on **projects in the field of artificial intelligence**.  
