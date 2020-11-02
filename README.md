@@ -11,6 +11,6 @@ He has completed high school at Colégio Alfredo Dantas (CAD) and is currently g
 - 🔭 I’m currently working on **Image Processing applied in Medicine**. 
 - 🌱 I’m currently learning **Convolutional Neural Networks**. 
 - 👯 I’m looking to collaborate on **projects in the field of artificial intelligence**.
-- 📚 I'm very interested in **linear algebra** and **differential equations**.
+- 📚 I'm very interested in **Linear Algebra** and **Differential Equations**.
 - 🏋️ In my free time I love lifting weights.
 - 🎵 + 🎬 + 🍕 = 🥰
