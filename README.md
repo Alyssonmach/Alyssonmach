@@ -14,7 +14,7 @@ I'm a academic in Electrical Engineering and passionate about Programming.
 
 ## My stats on Github 📖:  
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true)  
+<img src =https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true alt =github>
 </div> 
 
 ## Current Status 🌎: 
