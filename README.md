@@ -42,3 +42,7 @@ I'm a academic in Electrical Engineering and passionate about Programming.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 </div>  
+<br>
+<div align="center"> 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div> 
