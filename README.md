@@ -19,7 +19,7 @@ I'm a academic in Electrical Engineering and passionate about Programming.
 
 ## Current Status 🌎: 
 
-- 🔭 I’m currently working on [pyLearnAlgorithms](https://pypi.org/project/pyLearnAlgorithms/). 
+- 🔭 I’m currently working on **research project**.
 - 🌱 I’m currently learning **Convolutional Neural Networks**. 
 - 👯 I’m looking to collaborate on **projects in the field of artificial intelligence**.
 - 📚 I'm very interested in **Linear Algebra** and **Differential Equations**.
