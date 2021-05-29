@@ -12,6 +12,8 @@ I'm a academic in Electrical Engineering and passionate about Programming.
 </a>  
 </div>  
 
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+
 ## My stats on Github 📖:  
 <div align="center">
 <img src =https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true alt =github>
@@ -19,13 +21,12 @@ I'm a academic in Electrical Engineering and passionate about Programming.
 
 ## Current Status 🌎: 
 
-- 🔭 I’m currently working on **research project**.
+- 🔭 I’m currently working on **Research Project**.
 - 🌱 I’m currently learning **Convolutional Neural Networks**. 
 - 👯 I’m looking to collaborate on **projects in the field of artificial intelligence**.
 - 📚 I'm very interested in **Linear Algebra** and **Differential Equations**.
 - ⚡I am currently marketing coordinator in the **PELS/IAS chapter of UFCG**.
 - 🏋️ In my free time I love **lifting weights**.
-- 🎵 + 🎬 + 🍕 = 🥰
 
 ## Languages and Tools  
 <div align="center">  
