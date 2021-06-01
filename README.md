@@ -12,7 +12,7 @@ Electrical engineering academic and artificial intelligence researcher in the me
 </a>  
 </div>  
 
-![Snake animation](https://github.com/rafaballerini/Alyssonmach/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alyssonmach/Alyssonmach/blob/output/github-contribution-grid-snake.svg)
 
 ## My stats on Github 📖:  
 <div align="center">
