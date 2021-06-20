@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Alysson Machado
 ```
-Electrical engineering academic and artificial intelligence researcher in the medical field
+Electrical engineering academic and artificial intelligence researcher.
 ```
 
 <div align="center">
