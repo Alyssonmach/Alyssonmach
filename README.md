@@ -5,28 +5,35 @@ Electrical engineering academic and artificial intelligence researcher.
 
 <div align="center">
 <a href="https://github.com/Alyssonmach" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white target="_blank" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/alysson-machado-a30784186" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white target="_blank" alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:alysson.barbosa@ee.ufcg.edu.br" target="_blank">
+<img src=https://img.shields.io/badge/-gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white target="_blank" alt=gmail style="margin-bottom: 5px;" />
+</a> 
+<a href="https://alyssonmach.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/-medium-7289DA?style=for-the-badge&logo=medium&logoColor=white target="_blank" alt=gmail style="margin-bottom: 5px;" />
+</a> 
 </div>  
 
 ![Snake animation](https://github.com/Alyssonmach/Alyssonmach/blob/output/github-contribution-grid-snake.svg)
 
 ## My stats on Github 📖:  
 <div align="center">
-<img src =https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true alt =github>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyssonmach&layout=compact&langs_count=16&theme=dracula"/>
 </div> 
 
 ## Current Status 🌎: 
 
-- 🔭 I’m currently working on **Research Project**.
-- 🌱 I’m currently learning **Convolutional Neural Networks**. 
-- 👯 I’m looking to collaborate on **projects in the field of artificial intelligence**.
-- 📚 I'm very interested in **Linear Algebra** and **Differential Equations**.
-- ⚡I am currently marketing coordinator in the **PELS/IAS chapter of UFCG**.
-- 🏋️ In my free time I love **lifting weights**.
+- 🔭 I’m currently working on a **Research Project**.
+- 🌱 I’m currently learning **Deep Learning Techniques**. 
+- 👯 I’m looking to collaborate on **projects in the field of Artificial Intelligence**.
+- 📚 I'm very interested in **Artificial Intelligence** and **Electrical Engineering**.
+- ⚡I am currently **Graduating in Electrical Engineering** at UFCG.
+- 🏋️ In my free time I love **Gym**.
 
 ## Languages and Tools  
 <div align="center">  
