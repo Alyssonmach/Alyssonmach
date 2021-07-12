@@ -7,7 +7,7 @@ Electrical engineering academic and artificial intelligence researcher.
 <a href="https://github.com/Alyssonmach" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white target="_blank" alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/alyssonmac" target="_blank">
+<a href="https://www.linkedin.com/in/alyssonmac" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white target="_blank" alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="mailto:alysson.barbosa@ee.ufcg.edu.br" target="_blank">
