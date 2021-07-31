@@ -22,8 +22,8 @@ Electrical engineering academic and artificial intelligence researcher.
 
 ## My stats on Github 📖:  
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyssonmach&layout=compact&langs_count=16&theme=dracula"/>
+<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div> 
 
 ## Current Status 🌎: 
@@ -33,7 +33,6 @@ Electrical engineering academic and artificial intelligence researcher.
 - 👯 I’m looking to collaborate on **projects in the field of Artificial Intelligence**.
 - 📚 I'm very interested in **Artificial Intelligence** and **Electrical Engineering**.
 - ⚡I am currently **Graduating in Electrical Engineering** at UFCG.
-- 🏋️ In my free time I love **Gym**.
 
 ## Languages and Tools  
 <div align="center">  
