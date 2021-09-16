@@ -13,9 +13,6 @@ Electrical engineering academic and artificial intelligence researcher.
 <a href="mailto:alysson.barbosa@ee.ufcg.edu.br" target="_blank">
 <img src=https://img.shields.io/badge/-gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white target="_blank" alt=gmail style="margin-bottom: 5px;" />
 </a> 
-<a href="https://alyssonmach.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/-medium-7289DA?style=for-the-badge&logo=medium&logoColor=white target="_blank" alt=gmail style="margin-bottom: 5px;" />
-</a> 
 </div>  
 
 ![Snake animation](https://github.com/Alyssonmach/Alyssonmach/blob/output/github-contribution-grid-snake.svg)
