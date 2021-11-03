@@ -1,6 +1,10 @@
-# Hi there 👋, my name is Alysson Machado
+<div>  
+<img src="https://komarev.com/ghpvc/?username=Alyssonmach&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat-square&color=red&link=https://www.github.com/Alyssonmach/" title="Visualizações de Perfil" align="right" alt="Visualizações"/>  
+  
+# Olá pessoal 👋, meu nome é Alysson Machado
+  
 ```
-Electrical engineering academic and artificial intelligence researcher.
+Graduando em Engenharia Elétrica e Pesquisador na Área de Inteligência Artificial
 ```
 
 <div align="center">
@@ -17,20 +21,20 @@ Electrical engineering academic and artificial intelligence researcher.
 
 ![Snake animation](https://github.com/Alyssonmach/Alyssonmach/blob/output/github-contribution-grid-snake.svg)
 
-## My stats on Github 📖:  
+## Meu Status no GitHub 📖:  
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div> 
 
-## Current Status 🌎: 
+## Status atual 🌎: 
 
-- 🔭 I’m currently working on a **Research Project**.
-- 🌱 I’m currently learning **Deep Learning Techniques**. 
-- 👯 I’m looking to collaborate on **projects in the field of Artificial Intelligence**.
-- 📚 I'm very interested in **Artificial Intelligence** and **Electrical Engineering**.
-- ⚡I am currently **Graduating in Electrical Engineering** at UFCG.
+- 🔭 Atualmente estou trabalhando em um **Projeto de Pesquisa**.
+- 🌱 Atualmente, estou aprendendo **Técnicas de aprendizado profundo**. 
+- 👯 Estou procurando colaborar em **projetos na área de Inteligência Artificial**.
+- 📚 Estou muito interessado em **Inteligência Artificial** e **Engenharia Elétrica**.
+- ⚡ Faço uma graduação em **Engenharia Elétrica** pela UFCG.
 
-## Languages and Tools  
+## Linguagens e Ferramentas    
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -45,9 +49,3 @@ Electrical engineering academic and artificial intelligence researcher.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
-
-</div>  
-<br>
-<div align="center"> 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div> 
