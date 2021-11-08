@@ -24,6 +24,7 @@ Graduando em Engenharia Elétrica e Pesquisador na Área de Inteligência Artifi
 ## Meu Status no GitHub 📖:  
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 </div> 
 
 ## Status atual 🌎: 
