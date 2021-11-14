@@ -3,9 +3,7 @@
   
 # Olá pessoal 👋
   
-```
-Graduando em Engenharia Elétrica e Pesquisador na Área de Inteligência Artificial
-```
+#### Graduando em Engenharia Elétrica e Pesquisador na Área de Inteligência Artificial
 
 <div align="center">
 <a href="https://github.com/Alyssonmach" target="_blank">
