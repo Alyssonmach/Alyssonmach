@@ -20,11 +20,11 @@
 
 ## Status Atual 🌎: 
 
-- 🔭 Atualmente estou trabalhando em um **Projeto de Pesquisa**.
-- 🌱 Atualmente, estou aprendendo **Técnicas de aprendizado profundo**. 
-- 👯 Estou procurando colaborar em **projetos na área de Inteligência Artificial**.
-- 📚 Estou muito interessado em **Inteligência Artificial** e **Engenharia Elétrica**.
-- ⚡ Faço uma graduação em **Engenharia Elétrica** pela UFCG.
+- 🔭 Trabalhando em um **Projeto de Pesquisa**.
+- 🌱 Aprendendo **Técnicas de Aprendizado Profundo**. 
+- 👯 Colaborando em projetos na área de **Inteligência Artificial**.
+- 📚 Interessado em **Inteligência Artificial** e **Engenharia Elétrica**.
+- ⚡ Graduando em **Engenharia Elétrica** pela **Universidade Federal de Campina Grande (UFCG)**.
 
 ## Linguagens e Ferramentas 🔨:
 
