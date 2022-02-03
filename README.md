@@ -1,6 +1,6 @@
 <img src = "https://komarev.com/ghpvc/?username=Alyssonmach&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat-square&color=red&link=https://www.github.com/Alyssonmach/" title = "Visualizações de Perfil" align = "right" alt = "Visualizações"/>  
   
-# Alysson Machado 👨‍💻
+# Alysson Machado :shipit:
   
 #### Graduando em Engenharia Elétrica e pesquisador na área de Inteligência Artificial
 
