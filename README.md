@@ -14,8 +14,9 @@
 </div>  
 
 ## Meu Status no GitHub 📖:  
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alyssonmach&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img src="https://metrics.lecoq.io/Alyssonmach?template=classic&config.timezone=America%2FSao_Paulo"/>
 </div> 
 
 ## Status Atual 🌎: 
