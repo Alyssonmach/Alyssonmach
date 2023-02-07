@@ -2,12 +2,6 @@
 
 <img width = 100% src = "https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=210&section=header&text=Alysson%20Machado&fontSize=90&animation=scaleIn&fontAlignY=38&desc=Graduando%20em%20Engenharia%20Elétrica%20e%20Pesquisador%20na%20área%20de%20IA&descAlignY=55&descAlign=59"/>
 
-## Meu Status no GitHub 📖:  
-
-<div align="center">
-<img src = "https://activity-graph.herokuapp.com/graph?username=Alyssonmach&theme=xcode&hide_border=true&area=false&bg_color=00"/>
-</div> 
-
 <div align = "center">
 <a href = "https://www.linkedin.com/in/alyssonmac" target = "_blank">
 <img src = "https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank" alt = linkedin style = "margin-bottom: 5px;"/>
