@@ -13,11 +13,12 @@
 
 ## Status Atual 🌎: 
 
-- 🔭 ```Trabalhando em um Projeto de Pesquisa```;
+- 🔭 ```Experiente com Projetos de Pesquisa na Área de Inteligência Artificial```;
 - 🌱 ```Aprendendo Técnicas de Aprendizado Profundo (Deep Learning)```; 
-- 👯 ```Colaborando em projetos na área de Inteligência Artificial (IA)```;
-- 📚 ```Interessado em Inteligência Artificial e Engenharia Elétrica```;
 - ⚡ ```Graduando em Engenharia Elétrica pela Universidade Federal de Campina Grande (UFCG)```;
+- 👯 ```Se Especializando na Ênfase de Controle e Automação```;
+- 📚 ```Um leitor vive mil vidas antes de morrer. Aquele que nunca lê vive apenas uma```;
+
 
 ## Linguagens e Ferramentas 🔨:
 
@@ -30,4 +31,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Git" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="Git" height="50" /> 
+  
 </div>  
